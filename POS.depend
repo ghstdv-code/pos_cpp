@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1575732453 source:d:\others\pos\interface.cpp
+	"Interface.h"
+	<iomanip>
+	<string>
+	<iostream>
+
+1575699578 d:\others\pos\interface.h
+
+1575731884 source:d:\others\pos\lib\dictionary.cpp
+	"Dictionary.h"
+	<vector>
+
+1575714733 d:\others\pos\lib\dictionary.h
+	<string>
+	<vector>
+
+1575708470 source:d:\others\pos\lib\helper.cpp
+	"Helper.h"
+	<iostream>
+
+1575714547 d:\others\pos\lib\helper.h
+	<string>
+
+1575729898 source:d:\others\pos\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<vector>
+	"Interface.h"
+	"lib/Dictionary.h"
+	"Report.h"
+	"lib/Helper.h"
+
+1575728868 d:\others\pos\report.h
+	<iostream>
+	<vector>
+	<string>
+
+1575730925 source:d:\others\pos\report.cpp
+	"Report.h"
+	<iostream>
+	<string>
+	<iomanip>
+
